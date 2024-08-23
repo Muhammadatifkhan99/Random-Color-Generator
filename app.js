@@ -1,4 +1,4 @@
 const btn = document.querySelector('button');
 btn.addEventListener('click', function () {
-    console.log("Cliked");
+    document.body.style.backgroundColor = 'olive';
 })
