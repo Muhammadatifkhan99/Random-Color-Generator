@@ -13,6 +13,8 @@ I developed this project during my JavaScript learning phase to practice and enh
 - Its very simple and their are no complex styles.
 - Math Object is built-in to JavaScript which is used to generate a random numbers through `random()`.
 - The Page is deployed at the following link: `https://muhammadatifkhan99.github.io/Random-Color-Generator/`.
+- [Deployed Link](https://muhammadatifkhan99.github.io/Random-Color-Generator/)
+
 
 ## Usage
 
