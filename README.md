@@ -21,3 +21,10 @@ Feel free to use or modify the code to suit your needs. This is a small step in 
 ## Contributing
 
 If you'd like to contribute to the project or make improvements, you're welcome to fork the repository and submit a pull request.
+## License
+
+This project is open for anyone to use and modify.
+
+---
+
+Happy coding journey!
